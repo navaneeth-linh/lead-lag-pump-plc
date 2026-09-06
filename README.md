@@ -117,7 +117,7 @@ lead-lag-pump-plc/
 ---
 
 ### Ladder Logic 
-   ladderlogic(media/ladder_logic.pdf)
+   visualization(visualization_screenshot.png)
 
 ## 🛠️ Tools Used
 
