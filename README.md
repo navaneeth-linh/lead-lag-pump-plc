@@ -116,6 +116,9 @@ lead-lag-pump-plc/
 
 ---
 
+### Ladder Logic 
+   ladderlogic(media/ladder_logic.pdf)
+
 ## 🛠️ Tools Used
 
 - **CodeSys 3.5** — PLC programming and simulation
